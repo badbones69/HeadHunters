@@ -6,12 +6,11 @@ public final class HeadHunters extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        getLogger().info("=== HeadHunters Start ===");
     }
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        getLogger().info("=== HeadHunters Stop ===");
     }
 }
