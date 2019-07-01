@@ -1,6 +1,6 @@
 name: HeadHunters
 version: ${project.version}
-main: me.ryder.HeadHunters
+main: me.ryder.headhunters.HeadHunters
 api-version: 1.13
 authors: [Ryder]
 description: A plugin that gives heads actual value.

@@ -1,4 +1,4 @@
-package me.ryder.util;
+package me.ryder.headhunters.util;
 
 import org.bukkit.ChatColor;
 
