@@ -1,4 +1,4 @@
-package me.ryder.cmds;
+package me.ryder.headhunters.cmds;
 
 public class CmdBountyRemove {
 }

@@ -1,4 +1,4 @@
-package me.ryder;
+package me.ryder.headhunters;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
